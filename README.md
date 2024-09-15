@@ -2,7 +2,7 @@ INTEGRANTES:
   Hernan Valea, Sarasola Nicolas
 
 TEMATICA:
-  Tienda de electronica, con foco en la venta de videojuejos y consolas.
+  Tienda de electronica, con foco en la venta de videojuegos y consolas.
 
 RELACIONES:
   cada videojuego es compatible para un modelo de consola en particular.
