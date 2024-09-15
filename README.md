@@ -1,6 +1,5 @@
 INTEGRANTES:
-  Hernan Valea
-  Sarasola Nicolas
+  Hernan Valea, Sarasola Nicolas
 
 TEMATICA:
   Tienda de electronica, con foco en la venta de videojuejos y consolas.
