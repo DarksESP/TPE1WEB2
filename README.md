@@ -1,3 +1,7 @@
+PARA INICIO DE SESION DE 2DA ENTREGA:
+  EMAIL: webadmin@gmail.com
+  PASSWORD: admin
+
 INTEGRANTES:
   Hernan Valea, Sarasola Nicolas
 
