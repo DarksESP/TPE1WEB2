@@ -1,0 +1,14 @@
+<form method="post">
+    <label for="categoriaElegidaModal" class="form-label">juego</label>
+                <select class="form-select" name="JuegoID"
+                    required>
+                    <?php
+                    foreach ($juegos as $juego) {
+                        echo "<option value='" . $juego->ID . "'>" . $juego->nombre . "</option>";
+ 
+
+                    }
+                    ?>
+                </select>
+    <button type="submit">buscar juego</button>
+</form> 

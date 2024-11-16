@@ -1,0 +1,14 @@
+<form method="post">
+    <label for="categoriaElegidaModal" class="form-label">juego</label>
+                <select class="form-select" name="ConsolaID"
+                    required>
+                    <?php
+                    foreach ($consolas as $consola) {
+                        echo "<option value='" . $consola->ID . "'>" . $consola->nombre . "</option>";
+ 
+
+                    }
+                    ?>
+                </select>
+    <button type="submit">buscar consola</button>
+</form> 
