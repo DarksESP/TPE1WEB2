@@ -2,10 +2,6 @@ PARA INICIO DE SESION DE 2DA ENTREGA:
   EMAIL: webadmin@gmail.com
   PASSWORD: admin
 
-deben tener en concideracion que github no sube el archivo .htacces por alguna razon desconocida para nosotros, por favor incorporarlo
-
-  
-
 INTEGRANTES:
   Hernan Valea, Sarasola Nicolas
 
